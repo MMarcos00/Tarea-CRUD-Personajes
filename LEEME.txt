@@ -1,0 +1,16 @@
+TEMAS|
+---------------------------------
+MySqlConnection			|
+MySqlCommand			|
+command.Parameters.AddWithValue	|
+@param				|
+ExecuteNonQuery			|
+MySqlDataAdapter		|
+adapter.Fill(personajes)	|
+---------------------------------
+Buen día Ingeniero, si en algún dado caso no le deja abrir el video de la explicación del 
+código puede utilizar este link |--| donde se encuentra el vídeo en mi Drive.
+			       \|  |/
+				\  /
+				 \/
+https://drive.google.com/file/d/1rAYP-DHF1cnOloLIA8auXQzj0KgPpU5A/view?usp=sharing
